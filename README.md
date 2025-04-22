@@ -188,7 +188,7 @@ For detailed setup instructions, please refer to the [helm-charts](https://githu
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0. See the [LICENSE](https://github.com/cyse7125-sp25-team03/.github/blob/main/LICENSE) file for details.
 
 ## Acknowledgments
 
